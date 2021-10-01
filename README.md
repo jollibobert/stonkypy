@@ -15,4 +15,4 @@ Current features:
 ### License
 
 \
-__bobby__
+__jollibobert__
