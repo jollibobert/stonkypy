@@ -12,7 +12,5 @@ Current features:
 
 ### Requirements
 
-### License
-
 \
 __jollibobert__
